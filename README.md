@@ -100,9 +100,7 @@ ASD based on behavioral and demographic data.
 Conclusion: <br>
  This project demonstrates the potential of leveraging machine learning techniques for 
 the early detection of Autism Spectrum Disorder (ASD). By utilizing a dataset 
-comprising demographic, behavioral, and medical history features, we successfully 
-
- developed a predictive model that can aid in the screening process for ASD. The 
+comprising demographic, behavioral, and medical history features, we successfully developed a predictive model that can aid in the screening process for ASD. The 
 methodology involved comprehensive data preprocessing, feature encoding, model 
 training using Random Forest classifiers, and evaluation of model performance using 
 various metrics such as accuracy, precision, recall, and F1-score.
@@ -119,8 +117,8 @@ learning models could effectively distinguish between individuals with and witho
 such as age, gender, and behavioral indicators, in predicting ASD.<br>
  3. Model Performance: The Random Forest model exhibited strong performance 
 metrics, demonstrating its suitability for ASD detection tasks.<br>
- Implications: <br>
- The development of an accurate and efficient ASD detection model has several 
+Implications: <br>
+    The development of an accurate and efficient ASD detection model has several 
 important implications: <br>
  1. Early Intervention: Facilitating early diagnosis can lead to timely interventions, 
 which are crucial for improving developmental outcomes in children with ASD. <br>
@@ -129,7 +127,7 @@ healthcare resources by identifying high-risk individuals who require further cl
 evaluation. <br>
  3. Accessibility: The implementation of machine learning-based screening tools can 
 improve access to diagnostic services, particularly in underserved regions. <br>
- Future Directions: <br>
+Future Directions: <br>
  Despite the promising results, there are several areas for future improvement and 
 exploration: <br>
  1. Data Expansion: Incorporating larger and more diverse datasets can enhance 
@@ -138,7 +136,7 @@ model generalizability and robustness.<br>
 and speech data can provide a more comprehensive assessment of ASD.<br>
  3. Explainability: Developing explainable AI models will help clinicians understand and 
 trust the model's predictions, facilitating its integration into clinical practice.<br>
- Final Remarks:<br>
+Final Remarks:<br>
  In conclusion, this project highlights the potential of machine learning to revolutionize 
 the early detection and diagnosis of Autism Spectrum Disorder. By continuing to refine
  these models and integrating them into healthcare systems, we can significantly improve the accuracy, efficiency, and accessibility of ASD screening, ultimately leading

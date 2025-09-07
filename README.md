@@ -1,6 +1,6 @@
 # Autism_Prediction_using_ML
-Abstract
- Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition 
+Abstract :
+Autism Spectrum Disorder (ASD) is a complex neurodevelopmental condition 
 characterized by challenges in social interaction, communication, and repetitive 
 behaviors. Early detection of ASD is crucial for timely intervention, which can 
 significantly improve the quality of life for affected individuals and their families. 

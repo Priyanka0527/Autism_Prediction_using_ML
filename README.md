@@ -26,3 +26,4 @@ early autism detection, potentially enabling healthcare professionals to identif
 individuals more efficiently and accurately. This project underscores the potential of 
 machine learning in enhancing diagnostic processes and highlights the importance of 
 integrating technological advancements in medical practice.
+

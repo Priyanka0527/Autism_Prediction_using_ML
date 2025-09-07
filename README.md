@@ -110,32 +110,28 @@ them valuable tools for preliminary screening and decision support in clinical s
 Feature importance analysis further provided insights into the key factors contributing 
 to the prediction of ASD, which can guide future research and intervention strategies. <br>
  Key Findings:<br>
- 1. Effectiveness of Machine Learning Models: The study confirmed that machine 
-learning models could effectively distinguish between individuals with and without ASD
- based on the provided dataset.<br>
- 2. Feature Importance: The analysis highlighted the significance of certain features, 
-such as age, gender, and behavioral indicators, in predicting ASD.<br>
- 3. Model Performance: The Random Forest model exhibited strong performance 
-metrics, demonstrating its suitability for ASD detection tasks.<br>
+ •Effectiveness of Machine Learning Models: The study confirmed that machine learning models could effectively distinguish between individuals with and without ASD based on the provided dataset.<br>
+ • Feature Importance: The analysis highlighted the significance of certain features,such as age, gender, and behavioral indicators, in predicting ASD.<br>
+ • Model Performance: The Random Forest model exhibited strong performance 
+metrics, demonstrating its suitability for ASD detection tasks.
+ <br>
 Implications: <br>
     The development of an accurate and efficient ASD detection model has several 
 important implications: <br>
- 1. Early Intervention: Facilitating early diagnosis can lead to timely interventions, 
+ • Early Intervention: Facilitating early diagnosis can lead to timely interventions, 
 which are crucial for improving developmental outcomes in children with ASD. <br>
- 2. Resource Optimization: Automating the initial screening process can help optimize 
+ • Resource Optimization: Automating the initial screening process can help optimize 
 healthcare resources by identifying high-risk individuals who require further clinical 
 evaluation. <br>
- 3. Accessibility: The implementation of machine learning-based screening tools can 
-improve access to diagnostic services, particularly in underserved regions. <br>
+ • Accessibility: The implementation of machine learning-based screening tools can 
+improve access to diagnostic services, particularly in underserved regions.
+<br>
 Future Directions: <br>
- Despite the promising results, there are several areas for future improvement and 
-exploration: <br>
- 1. Data Expansion: Incorporating larger and more diverse datasets can enhance 
-model generalizability and robustness.<br>
- 2. Multi-Modal Integration: Combining behavioral data with neuroimaging, genetic, 
-and speech data can provide a more comprehensive assessment of ASD.<br>
- 3. Explainability: Developing explainable AI models will help clinicians understand and 
-trust the model's predictions, facilitating its integration into clinical practice.<br>
+ Despite the promising results, there are several areas for future improvement and exploration: <br>
+ • Data Expansion: Incorporating larger and more diverse datasets can enhance model generalizability and robustness.<br>
+ • Multi-Modal Integration: Combining behavioral data with neuroimaging, genetic,and speech data can provide a more comprehensive assessment of ASD.<br>
+ • Explainability: Developing explainable AI models will help clinicians understand and trust the model's predictions, facilitating its integration into clinical practice.
+<br>
 Final Remarks:<br>
  In conclusion, this project highlights the potential of machine learning to revolutionize 
 the early detection and diagnosis of Autism Spectrum Disorder. By continuing to refine

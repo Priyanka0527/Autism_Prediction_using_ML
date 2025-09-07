@@ -96,7 +96,7 @@ each feature
 accuracy of 88%, precision of 87%, recall of 89%, F1-score of 88%, and an AUC-ROC 
 of 94%. These results indicate that machine learning can be effectively used to detect 
 ASD based on behavioral and demographic data.
-
+<br>
 Conclusion: <br>
  This project demonstrates the potential of leveraging machine learning techniques for 
 the early detection of Autism Spectrum Disorder (ASD). By utilizing a dataset 

@@ -108,12 +108,15 @@ various metrics such as accuracy, precision, recall, and F1-score.
 Random Forests, can achieve high accuracy and reliability in detecting ASD, making 
 them valuable tools for preliminary screening and decision support in clinical settings. 
 Feature importance analysis further provided insights into the key factors contributing 
-to the prediction of ASD, which can guide future research and intervention strategies. <br>
+to the prediction of ASD, which can guide future research and intervention strategies. 
+<br>
+<br>
  Key Findings:<br>
  •Effectiveness of Machine Learning Models: The study confirmed that machine learning models could effectively distinguish between individuals with and without ASD based on the provided dataset.<br>
  • Feature Importance: The analysis highlighted the significance of certain features,such as age, gender, and behavioral indicators, in predicting ASD.<br>
  • Model Performance: The Random Forest model exhibited strong performance 
 metrics, demonstrating its suitability for ASD detection tasks.
+ <br>
  <br>
 Implications: <br>
     The development of an accurate and efficient ASD detection model has several 
@@ -126,11 +129,13 @@ evaluation. <br>
  • Accessibility: The implementation of machine learning-based screening tools can 
 improve access to diagnostic services, particularly in underserved regions.
 <br>
+<br>
 Future Directions: <br>
  Despite the promising results, there are several areas for future improvement and exploration: <br>
  • Data Expansion: Incorporating larger and more diverse datasets can enhance model generalizability and robustness.<br>
  • Multi-Modal Integration: Combining behavioral data with neuroimaging, genetic,and speech data can provide a more comprehensive assessment of ASD.<br>
  • Explainability: Developing explainable AI models will help clinicians understand and trust the model's predictions, facilitating its integration into clinical practice.
+<br>
 <br>
 Final Remarks:<br>
  In conclusion, this project highlights the potential of machine learning to revolutionize 
